@@ -59,7 +59,6 @@ Kami adalah mahasiswa Teknik Informatika kelas A Sore dari Universitas Mikroskil
 </p>
 
 <p align="center">
-    <b>Universitas Mikroskil</b><br />
     Jl. Thamrin No. 112, 124, 140, Medan<br />
     Sumatera Utara, Indonesia
 </p>
