@@ -25,26 +25,26 @@ Kami adalah mahasiswa Teknik Informatika kelas A Sore dari Universitas Mikroskil
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/fendy">
-        <img src="" width="100px;" alt="Fendy"/><br />
+      <a href="https://github.com/fendygg">
+        <img src="https://github.com/fendygg.png" width="100px;" alt="Fendy"/><br />
         <sub><b>Fendy</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/seanryovalens">
-        <img src="" width="100px;" alt="Sean Ryo Valens S"/><br />
+      <a href="https://github.com/VinceSin">
+        <img src="https://github.com/VinceSin.png" width="100px;" alt="Sean Ryo Valens S"/><br />
         <sub><b>Sean Ryo Valens S</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/vincent">
-        <img src="" width="100px;" alt="Vincent"/><br />
+      <a href="https://github.com/ProveMe66">
+        <img src="https://github.com/ProveMe66.png" width="100px;" alt="Vincent"/><br />
         <sub><b>Vincent</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/devingunawan">
-        <img src="" width="100px;" alt="Devin Gunawan"/><br />
+      <a href="https://github.com/Devinn-G">
+        <img src="https://github.com/Devinn-G.png" width="100px;" alt="Devin Gunawan"/><br />
         <sub><b>Devin Gunawan</b></sub>
       </a>
     </td>
