@@ -25,8 +25,8 @@ Kami adalah mahasiswa Teknik Informatika kelas A Sore dari Universitas Mikroskil
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/fendygg">
-        <img src="https://github.com/fendygg.png" width="100px;" alt="Fendy"/><br />
+      <a href="https://github.com/fendygg2">
+        <img src="https://github.com/fendygg2.png" width="100px;" alt="Fendy"/><br />
         <sub><b>Fendy</b></sub>
       </a>
     </td>
