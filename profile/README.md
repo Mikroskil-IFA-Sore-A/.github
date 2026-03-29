@@ -42,12 +42,6 @@ Kami adalah mahasiswa Teknik Informatika kelas A Sore dari Universitas Mikroskil
         <sub><b>Vincent</b></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Devinn-G">
-        <img src="https://github.com/Devinn-G.png" width="100px;" alt="Devin Gunawan"/><br />
-        <sub><b>Devin Gunawan</b></sub>
-      </a>
-    </td>
   </tr>
 </table>
 
