@@ -8,7 +8,7 @@
 
 <br />
 
-## About us
+## About Us
 Kami merupakan mahasiswa Teknik Informatika kelas A Sore dari Universitas Mikroskil. Repositori organisasi ini berisi proyek-proyek yang kami kerjakan selama perkuliahan.
 
 ## Members
