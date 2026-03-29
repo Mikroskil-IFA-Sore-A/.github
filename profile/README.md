@@ -3,16 +3,13 @@
 <br />
 
 <p align="center">
-    <img width="250" style="border-radius: 8px; margin: 0 auto;" src="../assets/gopher-dance-long-3x.gif" alt="dancing gopher">
+    <img width="350" style="border-radius: 8px; margin: 0 auto;" src="../assets/Kuriyama_Mirai_flips_through_The_C_Programming_Language.gif" alt="dancing gopher">
 </p>
 
 <br />
 
 ## About us
-
-**2024 - 2028**
-
-Kami adalah mahasiswa Teknik Informatika kelas A Sore dari Universitas Mikroskil. Repositori organisasi ini berisi proyek-proyek yang kami kerjakan selama perkuliahan.
+Kami merupakan mahasiswa Teknik Informatika kelas A Sore dari Universitas Mikroskil. Repositori organisasi ini berisi proyek-proyek yang kami kerjakan selama perkuliahan.
 
 ## Members
 
